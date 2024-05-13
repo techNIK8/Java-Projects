@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Registration
+comment1.params=A
+comment1.target=Registration(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ putUsernameDatabase()
+comment3.params=
+comment3.target=int\ getUsernameCount()
+numComments=4

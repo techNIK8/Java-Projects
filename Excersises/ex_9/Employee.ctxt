@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=name\ afm
+comment1.target=Employee(java.lang.String,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=afm
+comment4.target=void\ setAfm(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getAfm()
+comment6.params=
+comment6.target=long\ getEmpID()
+comment7.params=
+comment7.target=int\ payment()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

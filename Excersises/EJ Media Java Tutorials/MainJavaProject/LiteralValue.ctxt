@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LiteralValue
+comment1.params=
+comment1.target=LiteralValue()
+comment2.params=
+comment2.target=int\ methodChildClass()
+comment3.params=placeholder
+comment3.target=int\ methodChildClass1(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

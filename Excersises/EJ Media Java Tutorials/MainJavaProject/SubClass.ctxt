@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SubClass
+comment1.params=x\ y
+comment1.target=SubClass(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

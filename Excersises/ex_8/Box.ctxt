@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=length\ width\ height
+comment1.target=Box(double,\ double,\ double)
+comment2.params=side
+comment2.target=Box(double)
+comment3.params=
+comment3.target=double\ calculate()
+comment4.params=
+comment4.target=double\ newMethod()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

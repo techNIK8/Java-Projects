@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuperClass
+comment1.params=
+comment1.target=SuperClass()
+comment2.params=xx\ yy
+comment2.target=SuperClass(int,\ int)
+numComments=3

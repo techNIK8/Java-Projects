@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=A
+comment1.target=Food(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFood()
+comment3.params=
+comment3.target=void\ systemPrint()
+numComments=4

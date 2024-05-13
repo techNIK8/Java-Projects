@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Orc
+comment1.params=height
+comment1.target=void\ setHeight(int)
+comment2.params=
+comment2.target=int\ getHeight()
+numComments=3

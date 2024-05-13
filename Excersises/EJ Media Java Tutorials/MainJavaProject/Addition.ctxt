@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Addition
+comment1.params=
+comment1.target=int\ getnumber()
+comment2.params=
+comment2.target=Addition()
+comment3.params=X\ Y
+comment3.target=Addition(int,\ int)
+numComments=4
