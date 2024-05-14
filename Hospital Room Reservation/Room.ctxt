@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=maxCapacity\ pricePerPerson
+comment1.target=Room(int,\ double)
+comment10.params=i
+comment10.target=void\ setPricePerPerson(double)
+comment11.params=
+comment11.target=Reservation[]\ getAvailabilityArray()
+comment12.params=i\ res
+comment12.target=void\ setAvailabilityArray(int,\ Reservation)
+comment2.params=res
+comment2.target=boolean\ addReservation(Reservation)
+comment2.text=\ Prospelaunei\ to\ pinaka\ diathesimotitas\ elegxontas\ an\ oi\ meres,\ pou\ apaitountai\ gia\ ti\ kratisi\ (apo\ ti\ mera\ afiksis\ eos\ ti\ mera\ eksodou,\ diladi\ mera\ afiksis\ +\ meres\ diamonis),\ exoun\ timi\ null.\ An\ auti\ i\ synthiki\ einai\ alithis,\ diladi\ en\ telei\r\n\t\ freeDays\ \=\ res.getDays\ (se\ syndyasmo\ me\ ti\ proigoumeni\ synthki\ elegxei\ an\ oi\ eleutheres\ meres\ antistoixoun\ stis\ imeres\ kratisis)\ tote\ elegxei\ KAI\ an\ ta\ atoma\ tis\ kratisis\ einai\ ligotera\ apo\ ti\ metabliti\ maxCapacity.\ Ean\ epalitheutoun\ oi\ synthikes,\r\ntote\ h\ boolean\ metabliti\ ginetai\ true\ kai\ anathetei\ gia\ tis\ katalliles\ meres\ sth\ metabliti\ domatio\ tis\ klasis\ Reservation\ to\ stigmiotypo\ tou\ sygkekrimenou\ domatiou.
+comment3.params=
+comment3.target=double\ setPrice()
+comment4.params=input
+comment4.target=boolean\ cancel(int)
+comment4.text=Gia\ na\ akyrosoume\ mia\ kratisi\ prospelaunoume\ to\ pinaka\ diathesimotitas,\ o\ opoios\ apoteleitai\ \r\napo\ anafores\ se\ objects\ tis\ klasis\ Kratisi.\ An\ h\ metabliti\ "kodikos\ kratisis"\ (\ meso\ tis\ getCode\ )\ tou\ \r\nsygkekrimenou\ stoixeiou\ tou\ pinaka\ (\ array\ )\ tautizetai\r\nme\ ti\ metabliti\ input,\ pou\ mas\ dinei\ o\ xristis,\ tote\ anathetoume\ sto\ stoixeio\ ayto\ timi\ null.
+comment5.params=
+comment5.target=double\ fullness()
+comment6.params=
+comment6.target=int\ getMaxCapacity()
+comment7.params=i
+comment7.target=void\ setMaxCapacity(int)
+comment8.params=
+comment8.target=int\ getRoomCode()
+comment9.params=
+comment9.target=double\ getPricePerPerson()
+numComments=13
